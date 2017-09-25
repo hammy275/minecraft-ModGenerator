@@ -8,8 +8,6 @@ YouTube user MrCrayfish
 
 http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer
 
-These are the sources I used to make this program
-
 ## Prerequisites
 
 Python 2.7 (https://python.org/)
@@ -28,3 +26,7 @@ The program will then prompt you to input values. Input the values
 
 Lastly, take the program's output and paste them into your mod code
 wherever the program tells you to put them
+
+## About this README
+
+It looks terrible
