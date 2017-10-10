@@ -2,6 +2,8 @@
 
 A small utility written in Python 2.7 to generate code for Forge.
 
+To be used with Forge on Minecraft 1.7.10
+
 ## Acknowledgements
 
 YouTube user MrCrayfish
